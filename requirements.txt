@@ -3,7 +3,7 @@ backcall==0.1.0
 bleach==3.1.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.3
+Django==2.2.10
 django-js-asset==1.2.2
 django-mptt==0.10.0
 django-treebeard==4.3
